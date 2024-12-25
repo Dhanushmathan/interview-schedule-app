@@ -1,5 +1,5 @@
 import { useForm } from "react-hook-form";
-import FormInput from "./components/formInput";
+import FormInput from './components/FormInput';
 import FormTextArea from "./components/FormTextArea";
 import FormSelect from "./components/FormSelect";
 import { zodResolver } from "@hookform/resolvers/zod";
